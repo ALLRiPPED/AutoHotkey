@@ -122,7 +122,7 @@ SendDiscordMsg() {
     
     ; Send the message (first Enter selects command, second sends it)
     Send(Message)
-    Sleep(100)
+    Sleep(250)
     Send("{Enter}")
     Sleep(250)
     Send("{Enter}")
