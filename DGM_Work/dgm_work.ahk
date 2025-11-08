@@ -9,7 +9,7 @@ A_IconTip := "Discord Auto-Poster (Inactive)"
 MinInterval := 3660000               ; 61 minutes in milliseconds
 MaxInterval := 4500000               ; 75 minutes in milliseconds
 ChannelURL := "discord://discord.com/channels/1313437447098732594/1428411530348724344" ; DGM server, dgm-clockin-clockout channel
-Message := "/work"
+Message := "/work "
 LoadDelay := 5000                    ; Wait 5 seconds for Discord to load
 WindowTitle := "Discord"             ; Window title to verify Discord is active
 ; ===========================
